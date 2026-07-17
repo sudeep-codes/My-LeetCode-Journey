@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
