@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0173-binary-search-tree-iterator) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
