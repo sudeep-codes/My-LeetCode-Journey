@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
