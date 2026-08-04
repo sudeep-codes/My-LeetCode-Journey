@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
