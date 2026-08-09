@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
