@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -392,9 +394,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0067-add-binary) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
