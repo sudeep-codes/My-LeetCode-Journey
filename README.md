@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0994-rotting-oranges) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
