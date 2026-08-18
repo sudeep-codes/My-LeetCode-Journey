@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
