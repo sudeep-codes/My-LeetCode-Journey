@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0460-lfu-cache](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0460-lfu-cache) |
