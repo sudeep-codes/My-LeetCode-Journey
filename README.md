@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0089-gray-code) |
 ## Merge Sort
 |  |
 | ------- |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
