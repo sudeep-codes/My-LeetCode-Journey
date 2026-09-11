@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0120-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
