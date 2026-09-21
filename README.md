@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0460-lfu-cache) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -530,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
 |  |
@@ -543,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0133-clone-graph) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
