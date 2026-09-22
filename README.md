@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0155-min-stack) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0143-reorder-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0143-reorder-list) |
 | [0460-lfu-cache](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
