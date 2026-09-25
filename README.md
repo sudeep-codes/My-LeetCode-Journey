@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0148-sort-list) |
 | [0460-lfu-cache](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0148-sort-list) |
 ## Bit Manipulation
 |  |
 | ------- |
