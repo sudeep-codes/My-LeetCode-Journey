@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
