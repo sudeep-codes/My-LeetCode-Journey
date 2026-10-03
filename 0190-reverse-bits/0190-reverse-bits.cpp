@@ -1,7 +1,7 @@
 class Solution {
 public:
-    uint32_t reverseBits(int n) {
-        uint32_t result=0;
+    int reverseBits(int n) {
+        int result=0;
         for(int i=0; i<32; ++i){
             result<<=1;
             result|=(n&1);
