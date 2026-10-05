@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
