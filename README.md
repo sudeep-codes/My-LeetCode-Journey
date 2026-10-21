@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0460-lfu-cache) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0686-repeated-string-match](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0686-repeated-string-match) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0187-repeated-dna-sequences](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0191-number-of-1-bits) |
 ## Simulation
@@ -628,4 +632,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0164-maximum-gap) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
