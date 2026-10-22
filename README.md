@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
