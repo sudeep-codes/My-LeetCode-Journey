@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0662-maximum-width-of-binary-tree) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |
