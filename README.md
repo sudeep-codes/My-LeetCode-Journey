@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -696,4 +699,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
