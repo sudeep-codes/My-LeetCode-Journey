@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0686-repeated-string-match](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0686-repeated-string-match) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0211-design-add-and-search-words-data-structure) |
 ## String Matching
 |  |
 | ------- |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
