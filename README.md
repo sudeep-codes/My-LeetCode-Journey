@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/sudeep-codes/My-LeetCode-Journey/tree/master/0733-flood-fill) |
